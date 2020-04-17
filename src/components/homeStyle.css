@@ -1,0 +1,27 @@
+body {
+    
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-color:white;
+}
+
+.botonVerde{
+    margin-top:10px;
+    margin-bottom:10px;
+    border-radius:50px;
+    background-color:#A9F95A;
+    color:#2F5509;
+    font-weight:bold;
+    box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.botonMorado{
+    margin-top:10px;
+    margin-bottom:10px;
+    border-radius:50px;
+    background-color:#6216C5;
+    color:white;
+    font-weight:bold;
+    box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}

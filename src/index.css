@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,300,400,700&display=swap');
+body {
+    margin: 0 !important;
+    padding: 0px !important;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 100;
+}
+
+html,
+body,
+#app,
+#app>div {
+    height: 100%
+}
+
+.btn-group,
+.btn-group-vertical {
+    position: relative;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    vertical-align: middle;
+    margin: 0 auto !important;
+    text-align: center !important;
+}

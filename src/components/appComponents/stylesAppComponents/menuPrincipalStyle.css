@@ -1,0 +1,18 @@
+.botonMenuPrincipalHome{
+    background-color: white !important;
+    border-radius:0px;
+    font-size: 15px;
+    font-weight: bold;
+    color:black;
+   /* border-bottom:solid #E1DFDF 0.5px;*/
+    
+    height: 3.5em;
+}
+.itemMenuPrincipal{
+    float: left;
+}
+.botonMenuPrincipalHome:hover{
+    color:grey !important;
+   /* border-bottom:solid #E1DFDF 0.5px;*/
+
+}
